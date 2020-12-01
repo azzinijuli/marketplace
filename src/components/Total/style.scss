@@ -1,0 +1,13 @@
+.total-wrapper{
+  display: flex;
+  flex-direction: column;
+  .shipping-wrapper, .totalprice-wrapper{
+    border-top: 1px solid rgb(100, 100, 100);
+    padding: 0.5rem 0;
+    display: flex;
+    justify-content: space-between;
+    .total {
+      font-weight: bold;
+    }
+  }
+}

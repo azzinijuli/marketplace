@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "img": "https://camara.pro/wp-content/uploads/2018/12/fuji-instax-mini-8-la-camara-instantanea-1920x1080_tcm-3153-1262037.jpg",
+    "title": "Camera",
+    "price": 100,
+    "qty": 1
+  },
+  {
+    "id": 2,
+    "img": "https://cdn.shopify.com/s/files/1/1083/6796/products/product-image-1099883160_1024x1024.jpg?v=1571439662",
+    "title": "Backpack",
+    "price": 200,
+    "qty": 1
+  },
+  {
+    "id": 3,
+    "img": "https://images.mochi.media/image/upload/dpr_auto,f_auto,q_auto/abypueqm96huwjlat3e6",
+    "title": "Notebook",
+    "price": 150,
+    "qty": 1
+  },
+  {
+    "id": 4,
+    "img": "https://d13y5iorv6bymp.cloudfront.net/image/cache/catalog/---104127984578/blue-pink-pastel-color-thick-lace-up-sneakers-flats-shoes-800x800.jpg",
+    "title": "Sneakers",
+    "price": 400,
+    "qty": 1
+  },
+  {
+    "id": 5,
+    "img": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2019/07/02/goods-first-img/1562118601093028481.jpg",
+    "title": "T-shirt",
+    "price": 250,
+    "qty": 1
+  },
+  {
+    "id": 6,
+    "img": "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2019/10/21/goods-img/1574279065252069666.jpg",
+    "title": "Hoodie",
+    "price": 600,
+    "qty": 1
+  },
+  {
+    "id": 7,
+    "img": "https://i.pinimg.com/originals/5d/f7/57/5df757f6bba1c85aded196796ac4d2eb.jpg",
+    "title": "Scrunchies",
+    "price": 75,
+    "qty": 1
+  },
+  {
+    "id": 8,
+    "img": "https://i.pinimg.com/originals/c2/e2/55/c2e255c9fd28d5bd80c480873baf04de.jpg",
+    "title": "Headphones",
+    "price": 750,
+    "qty": 1
+  }
+]

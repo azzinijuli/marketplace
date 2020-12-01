@@ -1,0 +1,33 @@
+.product-wrapper {
+  display: flex;
+  margin: 1.5rem 0;
+  .product-image {
+    width: 130px;
+    height: 130px;
+    object-fit: cover;
+    border-radius: 15px;
+  }
+  .product-info {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    justify-content: space-around;
+    .product-title {
+      font-weight: bold;
+      padding: 0.5rem 0;
+    }
+    .product-counter {
+      display: flex;
+      button {
+        border: 1px solid rgb(100, 100, 100);
+        border-radius: 5px;
+        &:hover {
+          cursor: pointer;
+        }
+      }
+      span {
+        padding: 0 0.5rem;
+      }
+    }
+  }
+}
